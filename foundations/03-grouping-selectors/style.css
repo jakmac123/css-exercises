@@ -1,0 +1,14 @@
+.first-element {
+    background-color: black;
+    color: white;
+}
+.second-element {
+    background-color: yellow;
+    color: black;
+}
+
+.first-element,
+.second-element {
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif 'Times New Roman', Times, serif;
+}
